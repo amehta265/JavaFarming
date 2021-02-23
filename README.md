@@ -10,4 +10,6 @@ Some features of the farm include:
 4. A market place where you can buy and sell a certain number of crops and seeds based on your income. You can hire farm workers to increase your yields as well as farm machinery. 
 
 
-Kindly refer to the DEMO VIDEO for a more indepth summary of the project!
+Kindly refer to the video below for a more in depth summary of the project!
+
+https://youtu.be/yqwhTKwLmEM
